@@ -195,7 +195,7 @@ module.hot.accept(reloadCSS);
 require("./styles.css");
 
 console.log("aaaaaaaaaaaa");
-document.getElementById("app").innerHTML = "\n<h1>Hello Vanilla!</h1>\n<div>\n  We use the same configuration as Parcel to bundle this sandbox, you can find more\n  info about Parcel \n  <a href=\"https://parceljs.org\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.\n  <p>\u30C6\u30B9\u30C8\u3067\u3059\u3002</p>\n  <p>github\u9023\u643A\u6210\u529F</p>\n  <p>mainbranch\u306B\u305D\u306E\u307E\u307E\u8FFD\u52A0\u6210\u529F</p>\n</div>\n";
+document.getElementById("app").innerHTML = "\n<h1>Hello Vanilla!</h1>\n<div>\n  We use the same configuration as Parcel to bundle this sandbox, you can find more\n  info about Parcel \n  <a href=\"https://parceljs.org\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.\n  <p>\u30C6\u30B9\u30C8\u3067\u3059\u3002</p>\n  <p>github\u9023\u643A\u6210\u529F</p>\n  <p>mainbranch\u306B\u305D\u306E\u307E\u307E\u8FFD\u52A0\u5931\u6557</p>\n</div>\n";
 },{"./styles.css":"src/styles.css"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
